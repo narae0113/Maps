@@ -1247,7 +1247,9 @@ In the order of gas, premium gas, light oil, and LPG |
 |guideTop	|Integer| Optional ||Guide data count to expose |
 |groupByTrafficColor	| Boolean| Optional | |Return list of route details by each group of traffic color	|
 |saveFile	| Boolean| Optional | |Save binary files to search POI around the route	|
+| useTaxifare   | int | Optional   |       | Determines whether to see the expected amount of taxi fare<br>e.g. useTaxifare=1<br>0: Disabled<br> 1: General taxi<br>2: Deluxe taxi<br>3: General & deluxe taxis |
 
+### 6\. Added multi-sto
 
 
 #### Response

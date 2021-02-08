@@ -1759,7 +1759,6 @@
 | useTaxifare   | Integer | 선택   |       | 예상 택시 요금 조회 여부<br>예) useTaxifare=1<br>0: 미사용<br> 1: 일반택시<br>2: 모범택시<br>3: 일반택시와 모범택시 |
 | useStartDirection    | Boolean | 선택    |       | 결과 표시 개수                               |
 
-
 #### 응답
 
 ##### 응답 본문
